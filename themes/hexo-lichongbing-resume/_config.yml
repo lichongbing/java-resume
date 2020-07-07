@@ -1,0 +1,10 @@
+title: Résumé
+
+footer:
+  enable: true # decide where you want to show  your footer
+  copyright:  # customize your copyright in footer, e.g. © 2019-2020 Jevis Li
+    startYear: 2018
+    currentYear: 2020
+    author: Chongbing Li
+    link: https://github.com/mtics/hexo-mtics-resume
+    beian: 
